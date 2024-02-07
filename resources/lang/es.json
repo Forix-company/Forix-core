@@ -1,0 +1,37 @@
+{
+    "login-title":"Login",
+    "label-account":"Ingresa a tu cuenta",
+    "label-email":"Correo Electrónico",
+    "label-password":"Contraseña",
+    "label-forgot-you-password":"Olvidaste tu contraseña ?",
+    "label-remember-me":"Recuérdame",
+    "button-get-into":"INGRESAR",
+    "button-register":"REGISTRO",
+
+    "register-title":"Registro",
+    "label-register":"CREAR CUENTA",
+    "label-name-title":"Nombre Completo",
+    "label-password-confirm-title":"Confirmar Contraseña",
+    "label-password-confirm-description": "Confirme su contraseña antes de continuar.",
+    "label-show-password":"Mostrar contraseña",
+    "button-create-account":"REGISTRAR",
+    "button-back":"VOLVER ATRAS",
+
+
+    "forgot-you-title":"Restablecer Cuenta",
+    "label-forgot-you":"Restablecer Contraseña",
+    "label-forgot-you-create-password":"Crear Nueva Contraseña",
+    "button-forgot-you-restore":"Restablecer",
+
+
+    "verify-title":"Verificar correo",
+    "verify-email":"Verifique su dirección de correo electrónico",
+    "verify-subtitle":"Se ha enviado un nuevo enlace de verificación a su dirección de correo electrónico.",
+    "verify-subtitle-two":"Antes de continuar, verifique su correo electrónico para obtener un enlace de verificación.",
+    "verify-subtitle-tree":"Si no recibiste el correo electrónico",
+    "verify-send-email":"haga clic aquí para solicitar otro",
+
+
+    "otp-title":"Por favor Digite el codigo OTP para ingresar",
+    "otp-title-code":"CÓDIGO DE VERIFICACIÓN"
+}

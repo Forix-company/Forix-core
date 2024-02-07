@@ -1,0 +1,15 @@
+{
+    "Base": true,
+    "Categoria": true,
+    "Compras": true,
+    "Contabilidad": true,
+    "Devolucion": true,
+    "Empresas": true,
+    "Etiquetas": true,
+    "Fabricante": true,
+    "Inventario": true,
+    "Pasarela": true,
+    "Productos": true,
+    "Proveedores": true,
+    "Ventas": true
+}

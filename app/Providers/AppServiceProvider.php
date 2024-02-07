@@ -1,0 +1,31 @@
+<?php
+
+namespace App\Providers;
+
+use Illuminate\Support\ServiceProvider;
+use Illuminate\Support\Facades\File;
+class AppServiceProvider extends ServiceProvider
+{
+    /**
+     * Register any application services.
+     *
+     * @return void
+     */
+    public function register()
+    {
+        //
+    }
+
+    /**
+     * Bootstrap any application services.
+     *
+     * @return void
+     */
+    public function boot()
+    {
+        if (!File::exists(base_path('.env'))) {
+            File::copy(base_path('.env.example'), base_path('.env'));
+            File::makeDirectory('Modules');
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "login-title": "Login",
+    "label-account": "Log in to your account",
+    "label-email": "Email",
+    "label-password": "Password",
+    "label-forgot-you-password": "Forgot your password?",
+    "label-remember-me": "Remember me",
+    "button-get-into": "LOGIN",
+    "button-register": "REGISTER",
+
+    "register-title": "Register",
+    "label-register": "CREATE ACCOUNT",
+    "label-name-title": "Full Name",
+    "label-password-confirm-title": "Confirm Password",
+    "label-password-confirm-description": "Please confirm your password before continuing.",
+    "label-show-password": "Show password",
+    "button-create-account": "REGISTER",
+    "button-back": "BACK",
+
+
+    "forgot-you-title": "Reset Account",
+    "label-forgot-you": "Reset Password",
+    "label-forgot-you-create-password": "Create New Password",
+    "button-forgot-you-restore": "Reset",
+
+
+    "verify-title": "Verify Email",
+    "verify-email": "Verify your email address",
+    "verify-subtitle": "A new verification link has been sent to your email address.",
+    "verify-subtitle-two": "Before proceeding, please verify your email for a verification link.",
+    "verify-subtitle-tree": "If you did not receive the email",
+    "verify-send-email": "click here to request another",
+
+
+    "otp-title": "Please enter the OTP code to proceed",
+    "otp-title-code": "VERIFICATION CODE"
+}
