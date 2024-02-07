@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/a', function () {
+Route::get('/', function () {
 
     $firstModule = collect(Module::allEnabled())->first();
     if ($firstModule) {
