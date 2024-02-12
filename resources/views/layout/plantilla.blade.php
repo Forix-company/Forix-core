@@ -281,7 +281,7 @@
             <div class="main-panel">
                 <div class="content">
                     <div class="panel-header"
-                        @if ($plantilla->color_body == 'bg1') style="background-color:#1572e8" @else style="background-color:#1a2035" @endif>
+                        @if ($plantilla->color_body == 'white') style="background-color:#1572e8" @else style="background-color:#1a2035" @endif>
                         <div class="page-inner py-5 text-capitalize">
                             @yield('page-inner')
                             @include('FlashMessage/message')
